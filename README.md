@@ -22,6 +22,8 @@ This is a summary collection of various config tweaks, print profiles, and links
 
 ### [Randomizing Z Homing Probe Location](./content/randomize-probing/README.md)
 
+### [Fixing lead screw rotation resistance](./content/lead-screw-resistance-fix/README.md)
+
 ---
 
 ## Software Installation
