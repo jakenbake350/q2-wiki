@@ -38,6 +38,12 @@ This is a summary collection of various config tweaks, print profiles, and links
 
 ---
 
+## Firmware
+
+### [Flashing Stock Firmware](content/stock-firmware-flash/README.md)
+
+---
+
 ## Printer Configuration Tweaks
 
 ### [Displaying Toolhead and Host CPU in Temperature List](./content/temperature-monitoring/README.md)
