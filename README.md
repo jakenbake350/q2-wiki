@@ -12,6 +12,14 @@ This is a summary collection of various config tweaks, print profiles, and links
 
 ---
 
+## Getting Started
+
+### [Connecting to Your Printer via SSH](./content/ssh-guide/README.md)
+
+### [Getting Started with the Qidi Q2 / Q2C](./content/getting-started/README.md)
+
+---
+
 ## Issues and Possible Fixes
 
 ### [Bed Collision Fix](./content/bed-collision-fix/README.md)
