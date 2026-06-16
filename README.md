@@ -32,6 +32,8 @@ This is a summary collection of various config tweaks, print profiles, and links
 
 ### [Fixing lead screw rotation resistance](./content/lead-screw-resistance-fix/README.md)
 
+### [PLR Z-Offset Bug Fix](./content/plr-z-offset/README.md)
+
 ---
 
 ## Software Installation
