@@ -36,24 +36,15 @@ Windows 10 and 11 include SSH natively. Open **Command Prompt** or **Windows Ter
 ssh makerbase@YOUR_PRINTER_IP
 Enter `mks` when prompted for the password. That's it.
 
-### Option 2: Bitvise SSH Client (recommended for heavy use)
+### Option 2: GUI SSH Clients
 
-[Bitvise](https://www.bitvise.com/ssh-client) is free and adds several useful features over a basic terminal:
+If you want more than a basic terminal, several free GUI clients are popular in the community. All use the same credentials (host = printer IP, port `22`, username `makerbase`, password `mks`).
 
-- **Built-in graphical file browser** — drag and drop files to/from the printer without separate tools
-- **Multiple terminal tabs** — useful when you want to run a command and monitor logs simultaneously
-- **Saved profiles** — if you have multiple printers, save a profile for each and switch between them instantly
+**[Bitvise](https://www.bitvise.com/ssh-client)** — Good starting point if you're new to SSH. Opens a graphical file browser alongside the terminal automatically, so you can drag and drop files to/from the printer without any extra tools. Also supports saved profiles if you have multiple printers.
 
-**Setup:**
-1. Download and install Bitvise from [bitvise.com/ssh-client](https://www.bitvise.com/ssh-client)
-2. In the **Host** field enter your printer's IP
-3. Port: `22`
-4. Username: `makerbase`
-5. Password: `mks`
-6. Click **Save profile** to save it for next time
-7. Click **Log in**
+**[PuTTY](https://www.putty.org/)** — The classic. Lightweight, no install required, and has been around forever so there's no shortage of tutorials. Terminal only — no built-in file browser.
 
-The terminal window and file browser open automatically after login.
+**[MobaXterm](https://mobaxterm.mobatek.net/)** — Feature-rich option that includes a built-in file browser (like Bitvise), multiple tabs, and a bunch of other network tools bundled in. The free Home edition is plenty for printer use.
 
 ---
 
