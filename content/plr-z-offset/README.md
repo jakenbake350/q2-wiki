@@ -73,3 +73,9 @@ Run this in the Fluidd/Mainsail console, substituting your actual tuned offset. 
 
 - Qidi Q2 / Q2C with a custom `z_offset` in `saved_variables.cfg`
 - Most noticeable with thicker build plates that require a larger offset correction
+
+## Verified On
+
+- Firmware 1.1.0 and 1.1.1
+
+Behavior on newer firmware versions is unknown — if you've tested this on a later version, feel free to update this page.
